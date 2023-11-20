@@ -4,7 +4,8 @@
   "description": "presentation based on markdown and marpit",
   "main": "index.md",
   "scripts": {
-    "build:pdf": "marp --html --allow-local-files index.md -o output.pdf",
+    "build:pdf": "marp --pdf --pdf-notes --allow-local-files index.md -o output.pdf",
+    "build:html": "marp --html",
     "run": "marp --html -w index.md"
   },
   "repository": {
