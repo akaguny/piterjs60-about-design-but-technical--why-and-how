@@ -1,0 +1,29 @@
+{
+  "name": "piterjs-presentation-about-technical-design-by-shcherbakov",
+  "version": "1.0.0",
+  "description": "presentation based on markdown and marpit",
+  "main": "index.md",
+  "scripts": {
+    "build:pdf": "marp --html --allow-local-files index.md -o output.pdf",
+    "run": "marp --html -w index.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akaguny/piterjs59-schehrbakov.git"
+  },
+  "keywords": [
+    "marpit",
+    "rfc",
+    "mermaid",
+    "plantuml"
+  ],
+  "author": "aleksei.shcherbakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akaguny/piterjs59-schehrbakov/issues"
+  },
+  "homepage": "https://github.com/akaguny/piterjs59-schehrbakov#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}

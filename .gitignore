@@ -133,3 +133,8 @@ dist
 .idea/vcs.xml
 .idea/workspace.xml
 .history
+
+# artifacts
+output.pdf
+cut-slides.md
+структура-повествования.md
