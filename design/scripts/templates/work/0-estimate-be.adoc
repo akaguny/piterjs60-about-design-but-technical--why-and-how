@@ -1,10 +1,7 @@
----
-
+----
 estimatedStoryPoints: 0
 estimatedManDays: 0
-labelJiraIssues: 
-
----
+----
 
 :toc:
 
