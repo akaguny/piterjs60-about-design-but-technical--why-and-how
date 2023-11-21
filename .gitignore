@@ -134,7 +134,6 @@ dist
 .idea/workspace.xml
 .history
 
-# artifacts
-output.pdf
+# pres
 cut-slides.md
 структура-повествования.md
