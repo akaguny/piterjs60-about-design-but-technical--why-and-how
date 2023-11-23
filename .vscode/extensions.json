@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "asciidoctor.asciidoctor-vscode",
+        "editorconfig.editorconfig",
+        "oderwat.indent-rainbow",
+        "marp-team.marp-vscode"
+    ]
+}
